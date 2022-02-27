@@ -39,6 +39,3 @@ let lightsState = 0
 radio.setGroup(5)
 lightsState = 0
 speed = 40
-basic.forever(function () {
-	
-})
